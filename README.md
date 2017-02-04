@@ -2,4 +2,4 @@
 
 IPython Notebook for Pandas, Matplotlib, Seaborn, and Bokeh
 
-## [Online Demo](https://goo.gl/qi5EV9)
+### [Online Demo](https://goo.gl/qi5EV9)
